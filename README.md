@@ -1,7 +1,11 @@
 # Ecom-Dashboard
 
 ## Technologies Used
-Built application using Springboot, RESTAPI endpoints, PostgreSQL, Thymeleaf, Bootstrap.
+- Springboot 
+- RESTAPI endpoints 
+- PostgreSQL
+- Thymeleaf 
+- Bootstrap.
 
 
 ## Youtube Link
